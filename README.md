@@ -22,8 +22,6 @@ Write the C Program using Linux Process API - fork(), wait(), exec()
 Test the C Program for the desired output. 
 
 # PROGRAM:
-### DEVELOPED BY : singamala venkata sai kumar reddy
-### REG NO : 212223230208
 
 ## C Program to print process ID and parent Process ID using Linux API system calls :
 ```
@@ -47,8 +45,10 @@ int main(void)
 	return 0; }
 ```
 ## OUTPUT :
+![79cf11b0-7581-4a85-b462-8588ffdf725d](https://github.com/user-attachments/assets/7c140989-2580-4508-9517-6bb7ec090d2b)
 
-![image](https://github.com/user-attachments/assets/2b78bd43-7faa-459f-b4f5-a8317dff68a1)
+
+
 
 ## C Program to create new process using Linux API system calls fork() and exit() :
 
@@ -79,7 +79,8 @@ int main() {
 
 ## OUTPUT :
 
-![image](https://github.com/user-attachments/assets/5d08e584-0923-4dcd-b7c4-84c11d87bdf2)
+![1783606e-78dc-4211-b052-a9af0c12d48f](https://github.com/user-attachments/assets/56330b93-c827-4dc4-9619-7746c617c041)
+
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family :
@@ -115,7 +116,8 @@ int main() {
 
 
 ## OUTPUT :
-![image](https://github.com/user-attachments/assets/f0b6a7ca-078f-4bf1-b326-cde2a5b521c4)
+
+![e49e215b-0869-4087-a858-286e784c206f](https://github.com/user-attachments/assets/adfa3710-1050-443d-9aa5-faf40ddecb0c)
 
 
 # RESULT:
